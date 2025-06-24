@@ -3,7 +3,4 @@ sree harishwar
 <<<<<<< Updated upstream
 lastly edited by hari at 15:49
 hari edited the file at 15.52 and was edited at local repo
-testing the stash 
-=======
-main
->>>>>>> Stashed changes
+testing the stash
